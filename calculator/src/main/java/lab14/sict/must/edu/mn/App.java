@@ -1,4 +1,4 @@
-package lab14.sict.must.edu.mn;
+package calculator.src.main.java.lab14.sict.must.edu.mn;
 
 /**
  * Hello world!
